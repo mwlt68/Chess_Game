@@ -1,16 +1,23 @@
 # Chess_Game
 Some algorithm about chess.
+I wanted to write my own chess game. The algorithms here belong to me. Also, I tried to implement the MVC structure to move the application to Unity.
 
-I made my own central operator. I created all the algorithms myself. Some of these algorithms may work for you. 
-I also tried to create a code that complies with the MVC rules because,
-I want to move this application that I developed with c # to the unit. 
-There may be errors and deficiencies in the game. 
+# Application Content
 
-Application content;
+<ul>
+  <li> Playing human vs human.</li>
+  <li>Playing human vs bot. </li>
+  <li>Shows the movable areas of the stone</li>
+  <li>Move forward and backward </li>
+  <li>Display by team selection.</li>
+  <li>Game ending conditions. </li>
+</ul>
 
-Playing the game in order.
-Playing human to human.
-Playing against the bot.
-Display by team selection.
-To be able to rok.
-Game ending status.
+# Team Select Screen
+
+![](image_1.PNG)
+
+# Game Screens
+
+![](image_2.PNG)
+![](image_3.PNG)
