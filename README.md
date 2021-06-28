@@ -1,6 +1,10 @@
-# Chess_Game
-Some algorithm about chess.
-I wanted to write my own chess game. The algorithms here belong to me. Also, I tried to implement the MVC structure to move the application to Unity.
+# Chess Game
+
+- OOP concept implemented
+- Unity adaptation of the project developed on .net framework has been facilitated by applying MVC design pattern.
+- Algorithms have been developed that include calculating the point at which the chess pieces can move according to the situation they are in.
+- Algorithms that control the game flow have been developed. (Progress, Finish and Forward-Backward)
+- A simple bot was developed as a competitor. This bot randomly chooses one of the points it can go to and advances.
 
 # Application Content
 
